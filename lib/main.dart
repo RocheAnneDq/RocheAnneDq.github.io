@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flip Bottle App',
       theme: ThemeData(
-        primarySwatch: Colors.yellow,
+        primarySwatch: Colors.pink,
       ),
       home: FlipBottleApp(),
     );
